@@ -1,0 +1,22 @@
+{
+  "name": "interval-training-app",
+  "version": "1.0.0",
+  "description": "Vue.js interval training timer with audio/visual alerts",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 3000 --host"
+  },
+  "dependencies": {
+    "vue": "^3.4.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0"
+  },
+  "keywords": ["vue", "timer", "interval", "training", "fitness"],
+  "author": "Your Name",
+  "license": "MIT"
+}
